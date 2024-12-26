@@ -3,7 +3,7 @@
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Salesforce projects where I can apply my skills as both an Admin and Developer.
-- 📫 How to reach me tuslu57@gmail.com
+- 📫 How to reach me => tuslu57@gmail.com
 
 
 <!---
